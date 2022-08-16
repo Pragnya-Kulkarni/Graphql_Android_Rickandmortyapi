@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4b2397e8b1ec412ea0403d071ea3d75c/transformed/fragment-ktx-1.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e8db04a1cfe449277c2f4c8ce73d09c5/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/dc94cbaf16626bf11819e6f0c9662c70/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/93f6c5a200e433050d9bcd293992c201/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c32e0e607e5b5d1fa5f75e4d27547b99/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e1372398bc8b8c34df7a577402c722d9/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9b2cfa33117af580b59cf8787e6d388a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0146f4c3bf26f7fca14006b9959eb906/transformed/fragment-1.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c4311efe437ccdd05e2a8a275e484fb3/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/7fc8db8c871476b1b7f72e8a721d9a44/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4cefd037b73402db94f78a44070a5463/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/b5fd2ff618d550f4d7d9a3a680d164b3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0a032400458d3933cfffa910f9adb4bf/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/f7ef6694c688e31ca723656157b219b8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/ef2b8bbd313c287587cfe4044866a415/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/80b4256eaebb004d2bf0ff2a3c6294c2/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/1552fb948a0c4b526496a7e6fd35d12e/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/3cba26c3c5ea196d4472e8dfc8974061/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/dec2727ea2f75a4c8be0c48180c89131/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/082b376fe07bd85947e1c6733c70bc6b/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/39bfdd4a5bbc136a2e3e66694cfbe095/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/3aedf214f86eba34e4de0c668b44471f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/b0553c127e77d43029621300a73aa9d6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e86dfd7b8ae92e6fb923058d929ead87/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/14e8a040f256c5124079643653318818/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/34d8e1c2eaa154f12a6b7065f2278f69/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/07d3c05939967d36b5cd5e81d483c7e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/98aef3b564588e8b01371c8433a58937/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c92d9aa99bd862803361c2e71164c2a6/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/691368c69e99152660954d9a248123ab/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/a0231df10a922968244189d35b85c9d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9e6796779a167f5cff69295dda47854a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bf8d4c8dadee8d0e0934dcbca282a6de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bbc22ac48d1f0d354248b25c260c96d2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/a7437a585a4461a7c85b581096087ce9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/2199bad39785ff576582adcfa3156a58/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/72abe4e364fa65fb2130d20525149e4b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/be9b23d368b85062ded2ae8f4c7b9e9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/323cad93a4195d2e50a968aad0dbcfb3/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/7e72be608af4e80b970314565e199c40/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4e1a7e5708a37f46b4dd88ca075f7899/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9b6f62157973420d35421f94c729d878/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0e8585edffcdea5130ba1e6d53b1fb25/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/5fd3333632288479cdc858748117c6dc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:4:1-79
+	android:name
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:4:18-60
+application
+ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/93f6c5a200e433050d9bcd293992c201/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/93f6c5a200e433050d9bcd293992c201/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c32e0e607e5b5d1fa5f75e4d27547b99/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c32e0e607e5b5d1fa5f75e4d27547b99/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/691368c69e99152660954d9a248123ab/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/691368c69e99152660954d9a248123ab/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bf8d4c8dadee8d0e0934dcbca282a6de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bf8d4c8dadee8d0e0934dcbca282a6de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bbc22ac48d1f0d354248b25c260c96d2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bbc22ac48d1f0d354248b25c260c96d2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/691368c69e99152660954d9a248123ab/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:11:9-55
+activity#com.example.graphql_sampleapp.MainActivity
+ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4b2397e8b1ec412ea0403d071ea3d75c/transformed/fragment-ktx-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4b2397e8b1ec412ea0403d071ea3d75c/transformed/fragment-ktx-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e8db04a1cfe449277c2f4c8ce73d09c5/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e8db04a1cfe449277c2f4c8ce73d09c5/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/dc94cbaf16626bf11819e6f0c9662c70/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/dc94cbaf16626bf11819e6f0c9662c70/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/93f6c5a200e433050d9bcd293992c201/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/93f6c5a200e433050d9bcd293992c201/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c32e0e607e5b5d1fa5f75e4d27547b99/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c32e0e607e5b5d1fa5f75e4d27547b99/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e1372398bc8b8c34df7a577402c722d9/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e1372398bc8b8c34df7a577402c722d9/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9b2cfa33117af580b59cf8787e6d388a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9b2cfa33117af580b59cf8787e6d388a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0146f4c3bf26f7fca14006b9959eb906/transformed/fragment-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0146f4c3bf26f7fca14006b9959eb906/transformed/fragment-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c4311efe437ccdd05e2a8a275e484fb3/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c4311efe437ccdd05e2a8a275e484fb3/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/7fc8db8c871476b1b7f72e8a721d9a44/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/7fc8db8c871476b1b7f72e8a721d9a44/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4cefd037b73402db94f78a44070a5463/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4cefd037b73402db94f78a44070a5463/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/b5fd2ff618d550f4d7d9a3a680d164b3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/b5fd2ff618d550f4d7d9a3a680d164b3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0a032400458d3933cfffa910f9adb4bf/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0a032400458d3933cfffa910f9adb4bf/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/f7ef6694c688e31ca723656157b219b8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/f7ef6694c688e31ca723656157b219b8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/ef2b8bbd313c287587cfe4044866a415/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/ef2b8bbd313c287587cfe4044866a415/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/80b4256eaebb004d2bf0ff2a3c6294c2/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/80b4256eaebb004d2bf0ff2a3c6294c2/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/1552fb948a0c4b526496a7e6fd35d12e/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/1552fb948a0c4b526496a7e6fd35d12e/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/3cba26c3c5ea196d4472e8dfc8974061/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/3cba26c3c5ea196d4472e8dfc8974061/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/dec2727ea2f75a4c8be0c48180c89131/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/dec2727ea2f75a4c8be0c48180c89131/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/082b376fe07bd85947e1c6733c70bc6b/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/082b376fe07bd85947e1c6733c70bc6b/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/39bfdd4a5bbc136a2e3e66694cfbe095/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/39bfdd4a5bbc136a2e3e66694cfbe095/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/3aedf214f86eba34e4de0c668b44471f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/3aedf214f86eba34e4de0c668b44471f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/b0553c127e77d43029621300a73aa9d6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/b0553c127e77d43029621300a73aa9d6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e86dfd7b8ae92e6fb923058d929ead87/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/e86dfd7b8ae92e6fb923058d929ead87/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/14e8a040f256c5124079643653318818/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/14e8a040f256c5124079643653318818/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/34d8e1c2eaa154f12a6b7065f2278f69/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/34d8e1c2eaa154f12a6b7065f2278f69/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/07d3c05939967d36b5cd5e81d483c7e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/07d3c05939967d36b5cd5e81d483c7e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/98aef3b564588e8b01371c8433a58937/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/98aef3b564588e8b01371c8433a58937/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c92d9aa99bd862803361c2e71164c2a6/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/c92d9aa99bd862803361c2e71164c2a6/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/691368c69e99152660954d9a248123ab/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/691368c69e99152660954d9a248123ab/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/a0231df10a922968244189d35b85c9d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/a0231df10a922968244189d35b85c9d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9e6796779a167f5cff69295dda47854a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9e6796779a167f5cff69295dda47854a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bf8d4c8dadee8d0e0934dcbca282a6de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bf8d4c8dadee8d0e0934dcbca282a6de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bbc22ac48d1f0d354248b25c260c96d2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bbc22ac48d1f0d354248b25c260c96d2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/a7437a585a4461a7c85b581096087ce9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/a7437a585a4461a7c85b581096087ce9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/2199bad39785ff576582adcfa3156a58/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/2199bad39785ff576582adcfa3156a58/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/72abe4e364fa65fb2130d20525149e4b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/72abe4e364fa65fb2130d20525149e4b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/be9b23d368b85062ded2ae8f4c7b9e9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/be9b23d368b85062ded2ae8f4c7b9e9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/323cad93a4195d2e50a968aad0dbcfb3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/323cad93a4195d2e50a968aad0dbcfb3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/7e72be608af4e80b970314565e199c40/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/7e72be608af4e80b970314565e199c40/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4e1a7e5708a37f46b4dd88ca075f7899/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/4e1a7e5708a37f46b4dd88ca075f7899/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9b6f62157973420d35421f94c729d878/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/9b6f62157973420d35421f94c729d878/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0e8585edffcdea5130ba1e6d53b1fb25/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/0e8585edffcdea5130ba1e6d53b1fb25/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/5fd3333632288479cdc858748117c6dc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/5fd3333632288479cdc858748117c6dc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragnya.kulkarni/AndroidStudioProjects/Graphql_SampleApp/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bbc22ac48d1f0d354248b25c260c96d2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/bbc22ac48d1f0d354248b25c260c96d2/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/90ebd1742a1277ec2a27deb1d98cbba0/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/pragnya.kulkarni/.gradle/caches/transforms-3/331882fb74c97bf8423cef80853a084d/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
