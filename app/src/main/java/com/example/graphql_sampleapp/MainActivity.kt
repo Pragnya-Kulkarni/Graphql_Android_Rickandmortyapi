@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
     private fun setObeserver() {
         mainActivityViewModel.characterResult.observeForever{
             //findViewById<EditText>(R.id.progressBar).isEnabled= false
-            val result=  String.format("Id: %s%nGender: %s%nImage: %s%nName: %lagit inits", it.id, it.gender, it.image, it.name)
+            val result=  String.format("Id: %s%nGender: %s%nImage: %s%nName: %s", it.id, it.gender, it.image, it.name)
             findViewById<TextView>(R.id.txtResult).text= result
         }
     }
